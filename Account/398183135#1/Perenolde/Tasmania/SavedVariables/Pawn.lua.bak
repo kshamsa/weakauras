@@ -1,0 +1,77 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0335,
+	["LastPlayerFullName"] = "Tasmania-Perenolde",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		[7] = {
+			["ID"] = 60903,
+			["Level"] = 34,
+			["Link"] = "|cff1eff00|Hitem:60903::::::::36:102:512:11:1:3644:34:::|h[Old Man's Legwarmers]|h|r",
+		},
+		[15] = {
+			["ID"] = 1806,
+			["Level"] = 26,
+			["Link"] = "|cff9d9d9d|Hitem:1806::::::::36:102:512:30:1:3812:35:::|h[Tough Cloak]|h|r",
+		},
+		[8] = {
+			["ID"] = 61106,
+			["Level"] = 42,
+			["Link"] = "|cff0070dd|Hitem:61106::::::::36:102:512:11:2:3649:5688:36:::|h[Excelsior Waders]|h|r",
+		},
+		[16] = {
+			["ID"] = 156991,
+			["Level"] = 36,
+			["Link"] = "|cff1eff00|Hitem:156991::::::::36:102:512:11:1:3649:36:::|h[Shredder Arm Extension]|h|r",
+		},
+		[17] = {
+			["ID"] = 54979,
+			["Level"] = 9,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffffffff|Hitem:54979::::::::11:102:512:11:1:3801:9:::|h[Godfrey's Dagger]|h|r",
+		},
+		[5] = {
+			["ID"] = 62157,
+			["Level"] = 44,
+			["Link"] = "|cff0070dd|Hitem:62157::::::::38:102:512:11:2:3656:5736:38:::|h[Farmer's Vest]|h|r",
+		},
+		[10] = {
+			["ID"] = 1807,
+			["Level"] = 31,
+			["Link"] = "|cff9d9d9d|Hitem:1807::::::::36:102:512:36:1:3813:36:::|h[Tough Leather Gloves]|h|r",
+		},
+		[3] = {
+			["ID"] = 56625,
+			["Level"] = 25,
+			["Link"] = "|cff1eff00|Hitem:56625::::::::25:102:512:11:1:3643:25:::|h[Broadleaf Mantle]|h|r",
+		},
+		[11] = {
+			["ID"] = 60910,
+			["Level"] = 38,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:60910::::::::33:102:512:11:2:3644:5646:32:::|h[Starry Band]|h|r",
+		},
+		[6] = {
+			["ID"] = 60900,
+			["Level"] = 33,
+			["Link"] = "|cff1eff00|Hitem:60900::::::::33:102:512:11:1:3644:33:::|h[Beggar's Belt]|h|r",
+		},
+		[12] = {
+			["ID"] = 60910,
+			["Level"] = 38,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:60910::::::::34:102:512:11:2:3644:5646:32:::|h[Starry Band]|h|r",
+		},
+		[9] = {
+			["ID"] = 60929,
+			["Level"] = 34,
+			["Link"] = "|cff1eff00|Hitem:60929::::::::36:102:512:11:1:3644:34:::|h[Moon Shriek Bracers]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DRUID",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

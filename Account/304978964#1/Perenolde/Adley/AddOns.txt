@@ -1,0 +1,4 @@
+WeakAuras: enabled
+Details: enabled
+kgPanels: disabled
+Bartender4: disabled

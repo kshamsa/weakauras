@@ -1,0 +1,8 @@
+Version: 1
+Frame: Storyline_NPCFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -18
+Y: 6
+W: 700
+H: 450

@@ -1,0 +1,7 @@
+WeakAurasCompanion: enabled
+WeakAuras: enabled
+Details: enabled
+kgPanels: disabled
+Bartender4: disabled
+WeakAurasArchive: enabled
+Storyline: disabled

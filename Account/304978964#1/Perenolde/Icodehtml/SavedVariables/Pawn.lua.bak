@@ -1,0 +1,63 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0401,
+	["LastPlayerFullName"] = "Icodehtml-Perenolde",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122249,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122249::::::::10:1453:::1:582:1:28:2052:::|h[Preened Tribal War Feathers]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 122666,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122666::::::::10:1453:::::::|h[Eternal Woven Ivy Necklace]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 122376,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122376::::::::10:1453:::::::|h[Exceptional Stormshroud Shoulders]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 122383,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122383::::::::10:1453:::1:582:1:28:2052:::|h[Stained Shadowcraft Tunic]|h|r",
+		}, -- [5]
+		nil, -- [6]
+		{
+			["ID"] = 122254,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122254::::::::10:1453:::::::|h[Stained Shadowcraft Pants]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 52884,
+			["Level"] = 6,
+			["Link"] = "|cffffffff|Hitem:52884::::::::6:1453::11:1:6713:2:28:1484:9:6:::|h[Footsteps of the Fallen Friend]|h|r",
+		}, -- [8]
+		[16] = {
+			["ID"] = 122350,
+			["Level"] = 12,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff00ccff|Hitem:122350::::::::10:1453:::::::|h[Balanced Heartseeker]|h|r",
+		},
+		[17] = {
+			["ID"] = 122350,
+			["Level"] = 12,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff00ccff|Hitem:122350::::::::10:260:::::::|h[Balanced Heartseeker]|h|r",
+		},
+		[15] = {
+			["ID"] = 122261,
+			["Level"] = 12,
+			["Link"] = "|cff00ccff|Hitem:122261::::::::10:1453:::1:582:1:28:2052:::|h[Inherited Cape of the Black Baron]|h|r",
+		},
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "ROGUE",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

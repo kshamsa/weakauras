@@ -1,0 +1,15 @@
+
+AucScanData = {
+	["Version"] = 1.4,
+	["scans"] = {
+		["#Perenolde"] = {
+			["scanstats"] = {
+				["ImageUpdated"] = 1572755301,
+			},
+			["image"] = "rope",
+			["ropes"] = {
+				"return {}", -- [1]
+			},
+		},
+	},
+}

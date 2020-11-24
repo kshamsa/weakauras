@@ -1,0 +1,8 @@
+Version: 1
+Frame: WeakAurasOptions
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: -112
+Y: -58
+W: 750
+H: 665
