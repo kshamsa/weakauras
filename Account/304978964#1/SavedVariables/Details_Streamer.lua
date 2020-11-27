@@ -14,10 +14,10 @@ Details_StreamerDB = {
 		["Nutbusta - Perenolde"] = "Peilla - Perenolde",
 		["Icodehtml - Perenolde"] = "Peilla - Perenolde",
 		["Notaphase - Perenolde"] = "Peilla - Perenolde",
-		["Paulblart - Perenolde"] = "Peilla - Perenolde",
+		["Jakestatefrm - Perenolde"] = "Peilla - Perenolde",
 		["Imyerstepdad - Perenolde"] = "Peilla - Perenolde",
 		["Peilla - Perenolde"] = "Peilla - Perenolde",
-		["Jakestatefrm - Perenolde"] = "Peilla - Perenolde",
+		["Paulblart - Perenolde"] = "Peilla - Perenolde",
 	},
 	["profiles"] = {
 		["Peilla - Perenolde"] = {
@@ -45,17 +45,12 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Serenity",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = false,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["scale"] = 1,
+			["row_height"] = 20,
+			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["font_size"] = 10,
+			["main_frame_strata"] = "LOW",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,10 +58,10 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
 			["use_spark"] = true,
-			["y"] = -4.57763671875e-05,
 			["x"] = 0.000152587890625,
 			["font_face"] = "Friz Quadrata TT",
 			["per_second"] = {
@@ -76,14 +71,19 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 1.52587890625e-05,
 				["x"] = 9.1552734375e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["author"] = "Details! Team",
-			["point"] = "CENTER",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["y"] = -4.57763671875e-05,
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["main_frame_locked"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }

@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
+	["LastVersion"] = 2.0401,
 	["LastPlayerFullName"] = "Nutbusta-Perenolde",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 183561,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183561::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Helmet]|h|r",
+			["ID"] = 178692,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:178692::::::::60:263::1:5:6805:6652:7194:1472:4785:1:28:1711:::|h[Soulthorn Visage]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 173797,
-			["Level"] = 98,
-			["Link"] = "|cff0070dd|Hitem:173797::::::::51:263::11:1:6706:2:9:51:28:1315:::|h[Larion-Tooth Necklace]|h|r",
+			["ID"] = 178827,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:178827::::::::60:263::1:5:6805:6652:6935:1472:4785:1:28:1712:::|h[Sin Stained Pendant]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 183560,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183560::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Shoulderguards]|h|r",
+			["ID"] = 178695,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:178695::::::::60:263::1:4:6805:6652:1472:4785:1:28:1711:::|h[Wintersnap Shoulderguards]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 183563,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183563::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Mail Shirt]|h|r",
+			["ID"] = 175650,
+			["Level"] = 128,
+			["Link"] = "|cff0070dd|Hitem:175650::::::::58:263::11:1:6706:2:28:1230:9:56:::|h[Dreamthorn Chainmail]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 183565,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183565::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Cinch]|h|r",
+			["ID"] = 175440,
+			["Level"] = 132,
+			["Link"] = "|cff1eff00|Hitem:175440::::::::60:263::11:1:6707:2:28:1425:9:58:::|h[Soul Hunter's Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 183640,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183640::::::::50:263:::2:1482:4786:1:28:1401:::|h[Leggings of Disreputable Charms]|h|r",
+			["ID"] = 175432,
+			["Level"] = 132,
+			["Link"] = "|cff1eff00|Hitem:175432::::::::60:263::11:1:6707:2:28:1426:9:58:::|h[Soul Hunter's Leggings]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 183657,
-			["Level"] = 110,
-			["Link"] = "|cffa335ee|Hitem:183657::::::::50:263:::2:1482:4786:1:28:1401:::|h[Skadi's Scaled Sollerets]|h|r",
+			["ID"] = 177654,
+			["Level"] = 140,
+			["Link"] = "|cff1eff00|Hitem:177654::::::::60:263::11:1:6706:2:28:1425:9:58:::|h[Bootus Shocks]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 183533,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183533::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Wristclamps]|h|r",
+			["ID"] = 175444,
+			["Level"] = 132,
+			["Link"] = "|cff1eff00|Hitem:175444::::::::60:263::11:1:6707:2:28:1426:9:58:::|h[Soul Hunter's Bracers]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 175619,
-			["Level"] = 104,
-			["Link"] = "|cff0070dd|Hitem:175619::::::::52:263::11:2:6707:6901:2:28:1320:9:52:::|h[Humble Aspirant's Gauntlets]|h|r",
+			["ID"] = 175659,
+			["Level"] = 114,
+			["Link"] = "|cff1eff00|Hitem:175659::::::::58:263::11:1:6707:2:28:1232:9:55:::|h[Dreamthorn Handguards]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 173344,
-			["Level"] = 98,
+			["ID"] = 178824,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:173344::::::::51:263::11:1:6706:2:9:51:28:1316:::|h[Band of Chronicled Deeds]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178824::::::::60:263::1:5:6805:6652:7194:1472:4785:1:28:1712:::|h[Signet of the False Accuser]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 173344,
-			["Level"] = 98,
+			["ID"] = 175710,
+			["Level"] = 140,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:173344::::::::52:263::11:1:6706:2:9:51:28:1316:::|h[Band of Chronicled Deeds]|h|r",
+			["Link"] = "|cff0070dd|Hitem:175710::::::::60:263::11:1:6706:2:28:1238:9:58:::|h[Night Courtier's Ring]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 173349,
-			["Level"] = 110,
+			["ID"] = 175730,
+			["Level"] = 132,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:173349::::::::52:263::11:2:6706:7173:2:28:1318:9:51:::|h[Misfiring Centurion Controller]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175730::::::::59:263::11:1:6707:2:28:1425:9:58:::|h[Master Duelist's Chit]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 158680,
-			["Level"] = 58,
+			["ID"] = 175730,
+			["Level"] = 132,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:158680::::::::50:263::11:1:4793:2:9:49:28:188:::|h[Rikal's Ritual Beads]|h|r",
+			["Link"] = "|cff1eff00|Hitem:175730::::::::60:263::11:1:6707:2:28:1425:9:58:::|h[Master Duelist's Chit]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 183550,
-			["Level"] = 100,
-			["Link"] = "|cff0070dd|Hitem:183550::::::::50:263::14::1:28:1401:::|h[Argent Conscript's Cape]|h|r",
+			["ID"] = 175765,
+			["Level"] = 138,
+			["Link"] = "|cff1eff00|Hitem:175765::::::::60:263::11:1:6707:2:28:1427:9:59:::|h[Dredwing Shroud]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 165625,
-			["Level"] = 115,
+			["ID"] = 176278,
+			["Level"] = 134,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:165625::::::::50:263::81:3:5844:1527:4786:1:28:1401:::|h[Sentinel's Warhammer]|h|r",
+			["Link"] = "|cffa335ee|Hitem:176278::::::::57:263::11:2:6706:7173:2:28:745:9:55:::|h[Ruthless Contender's Hammer]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 165625,
-			["Level"] = 115,
+			["ID"] = 176278,
+			["Level"] = 134,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:165625::::::::51:263::81:3:5844:1527:4786:1:28:1401:::|h[Sentinel's Warhammer]|h|r",
+			["Link"] = "|cffa335ee|Hitem:176278::::::::57:263::11:2:6706:7173:2:9:55:28:745:::|h[Ruthless Contender's Hammer]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
