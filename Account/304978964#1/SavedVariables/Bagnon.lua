@@ -165,7 +165,7 @@ Bagnon_Sets = {
 	},
 	["mineColor"] = {
 	},
-	["version"] = "9.0.3",
+	["version"] = "9.0.4",
 	["herbColor"] = {
 	},
 	["enchantColor"] = {

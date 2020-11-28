@@ -2,11 +2,8 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1606377470,
-		["NewerVersionName"] = "2.7.8",
+		["LastVersionAnnounce"] = 1606507616,
 		["NewerVersionAlert"] = 1606321097,
-		["TocExpiredDetection"] = 1605752373,
-		["NewerVersionDetected"] = 1606016759,
 	},
 	["class"] = {
 		["DEATHKNIGHT"] = {
