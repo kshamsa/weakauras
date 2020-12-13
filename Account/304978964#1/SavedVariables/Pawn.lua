@@ -371,6 +371,9 @@ PawnCommon = {
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = 1247265,
 			["PerCharacterOptions"] = {
+				["Aylia-Perenolde"] = {
+					["Visible"] = true,
+				},
 				["Notaphase-Perenolde"] = {
 					["Visible"] = true,
 				},
@@ -530,9 +533,6 @@ PawnCommon = {
 		["\"MrRobot\":DRUID2"] = {
 			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
-				["Imyerstepdad-Perenolde"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "ff7c0a",
 			["LocalizedName"] = "Druid: Feral",
@@ -566,6 +566,9 @@ PawnCommon = {
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
 			["PerCharacterOptions"] = {
+				["Imyerstepdad-Perenolde"] = {
+					["Visible"] = true,
+				},
 				["Druidguy-Perenolde"] = {
 					["Visible"] = true,
 				},
@@ -600,6 +603,9 @@ PawnCommon = {
 			["IconTexturePath"] = 237581,
 			["PerCharacterOptions"] = {
 				["Gayweed-Perenolde"] = {
+					["Visible"] = true,
+				},
+				["Bustamoves-Perenolde"] = {
 					["Visible"] = true,
 				},
 				["Mightysanta-Perenolde"] = {
@@ -645,7 +651,7 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["LastVersion"] = 2.0406,
+	["LastVersion"] = 2.0407,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

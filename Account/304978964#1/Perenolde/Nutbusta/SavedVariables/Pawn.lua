@@ -5,9 +5,9 @@ PawnOptions = {
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 178692,
-			["Level"] = 158,
-			["Link"] = "|cff0070dd|Hitem:178692::::::::60:263::1:5:6805:6652:7194:1472:4785:1:28:1711:::|h[Soulthorn Visage]|h|r",
+			["ID"] = 178738,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:178738::::::::60:263::2:5:6806:6652:7193:1485:4785:1:28:748:::|h[Rattling Deadeye Hood]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 178827,
@@ -21,46 +21,46 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 175482,
-			["Level"] = 146,
-			["Link"] = "|cff0070dd|Hitem:175482::::::::60:263::11:1:6706:2:9:60:28:1429:::|h[Soul Hunter's Vest]|h|r",
+			["ID"] = 182720,
+			["Level"] = 164,
+			["Link"] = "|cff0070dd|Hitem:182720::::::::60:263::28:4:6652:1520:5861:6616:1:28:2060:::|h[Mail Courier's Tunic]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 175440,
-			["Level"] = 132,
-			["Link"] = "|cff1eff00|Hitem:175440::::::::60:263::11:1:6707:2:28:1425:9:58:::|h[Soul Hunter's Belt]|h|r",
+			["ID"] = 180110,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:180110::::::::60:263::1:5:6805:6652:7194:1472:4785:1:28:2044:::|h[Dark Praetorian's Clasp]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 179991,
-			["Level"] = 138,
-			["Link"] = "|cff1eff00|Hitem:179991::::::::60:263::11:1:6707:2:9:59:28:1428:::|h[Light-Bleached Greaves]|h|r",
+			["ID"] = 178762,
+			["Level"] = 158,
+			["Link"] = "|cff0070dd|Hitem:178762::::::::60:263::1:4:6805:6652:1472:4785:1:28:747:::|h[Blightborne Chain Legguards]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 175486,
-			["Level"] = 146,
-			["Link"] = "|cff0070dd|Hitem:175486::::::::60:263::11:1:6706:2:9:59:28:1427:::|h[Soul Hunter's Boots]|h|r",
+			["ID"] = 178745,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:178745::::::::60:263::2:4:6806:6652:1485:4785:1:28:748:::|h[Striders of Restless Malice]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 175444,
-			["Level"] = 132,
-			["Link"] = "|cff1eff00|Hitem:175444::::::::60:263::11:1:6707:2:28:1426:9:58:::|h[Soul Hunter's Bracers]|h|r",
+			["ID"] = 180114,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:180114::::::::60:263::2:5:6806:6652:7194:1485:4785:1:28:748:::|h[Fallen Paragon's Armguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 175426,
-			["Level"] = 158,
-			["Link"] = "|cffa335ee|Hitem:175426::::::::60:263::11:2:6707:6902:2:9:59:28:1428:::|h[Ghoul-Tooth Resistant Grips]|h|r",
+			["ID"] = 178798,
+			["Level"] = 171,
+			["Link"] = "|cff0070dd|Hitem:178798::::::::60:263::2:4:6806:41:1485:4785:1:28:748:::|h[Grips of Overwhelming Beatings]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 178824,
-			["Level"] = 158,
+			["ID"] = 184783,
+			["Level"] = 190,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:178824::::::::60:263::1:5:6805:6652:7194:1472:4785:1:28:1712:::|h[Signet of the False Accuser]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184783::::::::60:263::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 175710,
-			["Level"] = 140,
+			["ID"] = 184783,
+			["Level"] = 190,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:175710::::::::60:263::11:1:6706:2:28:1238:9:58:::|h[Night Courtier's Ring]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184783::::::::60:264::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 178826,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178826::::::::60:263::1:4:6805:6652:1472:4785:1:28:1712:::|h[Sunblood Amethyst]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 175731,
-			["Level"] = 138,
+			["ID"] = 178826,
+			["Level"] = 158,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:175731::::::::60:263::11:1:6707:2:9:59:28:1428:::|h[Stolen Maw Badge]|h|r",
+			["Link"] = "|cff0070dd|Hitem:178826::::::::60:264::1:4:6805:6652:1472:4785:1:28:1712:::|h[Sunblood Amethyst]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 184758,
@@ -86,10 +86,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:184326::::::::60:263::11:1:6706:2:9:59:28:1428:::|h[Sinfall Stoneborn Cudgel]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 176278,
-			["Level"] = 134,
-			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:176278::::::::57:263::11:2:6706:7173:2:9:55:28:745:::|h[Ruthless Contender's Hammer]|h|r",
+			["ID"] = 181207,
+			["Level"] = 155,
+			["Link"] = "|cff0070dd|Hitem:181207::::::::60:264::74:4:6652:1472:5852:6616:1:28:2060:::|h[Dominance Keep Barrier]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

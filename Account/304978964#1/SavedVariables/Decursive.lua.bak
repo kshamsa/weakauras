@@ -5,6 +5,7 @@ DecursiveDB = {
 		["Jafaar - Perenolde"] = "Default",
 		["Toughsanta - Perenolde"] = "Default",
 		["Arlan - Perenolde"] = "Default",
+		["Bustamoves - Perenolde"] = "Default",
 		["Druidguy - Perenolde"] = "Default",
 		["Hardis - Perenolde"] = "Default",
 		["Harnis - Perenolde"] = "Default",
@@ -17,11 +18,12 @@ DecursiveDB = {
 		["Icodehtml - Perenolde"] = "Default",
 		["Notaphase - Perenolde"] = "Default",
 		["Gayerweed - Perenolde"] = "Default",
-		["Imyerstepdad - Perenolde"] = "Default",
+		["Weste - Perenolde"] = "Default",
 		["Jakestatefrm - Perenolde"] = "Default",
 		["Gayweed - Perenolde"] = "Default",
+		["Imyerstepdad - Perenolde"] = "Default",
 		["Peilla - Perenolde"] = "Default",
-		["Weste - Perenolde"] = "Default",
+		["Aylia - Perenolde"] = "Default",
 	},
 	["class"] = {
 		["DEATHKNIGHT"] = {
@@ -137,7 +139,7 @@ DecursiveDB = {
 	},
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1606377470,
+		["LastVersionAnnounce"] = 1607843143,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["profiles"] = {

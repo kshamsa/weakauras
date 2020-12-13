@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1606507616,
+		["LastVersionAnnounce"] = 1607878556,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["class"] = {
@@ -122,6 +122,7 @@ DecursiveDB = {
 		["Jafaar - Perenolde"] = "Default",
 		["Toughsanta - Perenolde"] = "Default",
 		["Arlan - Perenolde"] = "Default",
+		["Bustamoves - Perenolde"] = "Default",
 		["Druidguy - Perenolde"] = "Default",
 		["Hardis - Perenolde"] = "Default",
 		["Harnis - Perenolde"] = "Default",
@@ -133,6 +134,7 @@ DecursiveDB = {
 		["Nutbusta - Perenolde"] = "Default",
 		["Icodehtml - Perenolde"] = "Default",
 		["Notaphase - Perenolde"] = "Default",
+		["Aylia - Perenolde"] = "Default",
 		["Weste - Perenolde"] = "Default",
 		["Imyerstepdad - Perenolde"] = "Default",
 		["Gayweed - Perenolde"] = "Default",

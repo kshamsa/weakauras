@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0406,
+	["LastVersion"] = 2.0407,
 	["LastPlayerFullName"] = "Imyerstepdad-Perenolde",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -51,16 +51,16 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:183528::::::::50:103::14::1:28:1401:::|h[Argent Conscript's Grips]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 121643,
-			["Level"] = 50,
+			["ID"] = 159462,
+			["Level"] = 72,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff1eff00|Hitem:121643::::::::47:103::11:1:664:1:9:44:::|h[Thaon's Grief]|h|r",
+			["Link"] = "|cff0070dd|Hitem:159462::::::::50:104::1:5:4777:6516:6515:1485:4785:1:28:1228:::|h[Footbomb Championship Ring]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 121722,
-			["Level"] = 50,
+			["ID"] = 159462,
+			["Level"] = 72,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:121722::::::::47:103::11:2:767:1734:1:9:42:::|h[Staunch Warbrave Loop]|h|r",
+			["Link"] = "|cff0070dd|Hitem:159462::::::::51:104::1:5:4777:6516:6515:1485:4785:1:28:1228:::|h[Footbomb Championship Ring]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 183650,
@@ -69,10 +69,10 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:183650::::::::50:103:::2:1482:4786:1:28:1401:::|h[Miniscule Abomination in a Jar]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 121651,
-			["Level"] = 50,
+			["ID"] = 183650,
+			["Level"] = 110,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff1eff00|Hitem:121651::::::::48:103::11:1:664:1:9:45:::|h[Darkfiend Dreadbringer Horn]|h|r",
+			["Link"] = "|cffa335ee|Hitem:183650::::::::50:104:::2:1482:4786:1:28:1401:::|h[Miniscule Abomination in a Jar]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 183549,
