@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0407,
+	["LastVersion"] = 2.0408,
 	["LastPlayerFullName"] = "Imyerstepdad-Perenolde",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -10,9 +10,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:183557::::::::50:103::14::1:28:1401:::|h[Argent Conscript's Cowl]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 121796,
-			["Level"] = 50,
-			["Link"] = "|cffa335ee|Hitem:121796::::::::47:103::25:4:1824:1808:1472:3336::::|h[Pendant of the Kaldorei]|h|r",
+			["ID"] = 181625,
+			["Level"] = 96,
+			["Link"] = "|cff0070dd|Hitem:181625::::::::53:104::53:3:7192:6652:7193:2:28:807:9:52:::|h[Gorewrought Medallion]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 183556,

@@ -1,13 +1,13 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0401,
+	["LastVersion"] = 2.0408,
 	["LastPlayerFullName"] = "Icodehtml-Perenolde",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 122249,
-			["Level"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122249::::::::11:260:::1:582:1:28:2052:::|h[Preened Tribal War Feathers]|h|r",
+			["ID"] = 122250,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122250::::::::16:63:::1:582::::|h[Tattered Dreadmist Mask]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 122666,
@@ -15,49 +15,86 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122666::::::::11:260:::::::|h[Eternal Woven Ivy Necklace]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 122376,
-			["Level"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122376::::::::11:260:::::::|h[Exceptional Stormshroud Shoulders]|h|r",
+			["ID"] = 122360,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122360::::::::16:63:::1:582::::|h[Tattered Dreadmist Mantle]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 122383,
-			["Level"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122383::::::::11:260:::1:582:1:28:2052:::|h[Stained Shadowcraft Tunic]|h|r",
+			["ID"] = 122384,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::16:63:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
 		}, -- [5]
-		nil, -- [6]
 		{
-			["ID"] = 122254,
-			["Level"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122254::::::::11:260:::::::|h[Stained Shadowcraft Pants]|h|r",
+			["ID"] = 24395,
+			["Level"] = 19,
+			["Link"] = "|cff0070dd|Hitem:24395::::::::15:63::1:1:6710:2:28:1887:9:15:::|h[Mindfire Waistband]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 122256,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::16:63:::1:582::::|h[Tattered Dreadmist Leggings]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 52884,
-			["Level"] = 6,
-			["Link"] = "|cffffffff|Hitem:52884::::::::6:1453::11:1:6713:2:28:1484:9:6:::|h[Footsteps of the Fallen Friend]|h|r",
+			["ID"] = 27728,
+			["Level"] = 16,
+			["Link"] = "|cff1eff00|Hitem:27728::::::::14:63::11:1:3631:2:9:13:28:1737:::|h[Cushy Cenarion Walkers]|h|r",
 		}, -- [8]
-		[16] = {
+		{
+			["ID"] = 175203,
+			["Level"] = 9,
+			["Link"] = "|cff1eff00|Hitem:175203::::::::7:1449::11:1:6500:2:28:741:9:6:::|h[Expeditionary Cloth Cuffs]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 175186,
+			["Level"] = 12,
+			["Link"] = "|cff1eff00|Hitem:175186::::::::9:1449::11:1:6500:2:28:741:9:9:::|h[Expeditionary Cloth Gloves]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 25047,
+			["Level"] = 13,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff1eff00|Hitem:25047::::::::14:63::1:2:6654:1695:2:28:1887:9:14:::|h[Tourmaline Loop of the Fireflash]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 25047,
+			["Level"] = 13,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff1eff00|Hitem:25047::::::::15:63::1:2:6654:1695:2:28:1887:9:14:::|h[Tourmaline Loop of the Fireflash]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 122361,
+			["Level"] = 20,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122361::::::::16:63:::::::|h[Swift Hand of Justice]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 122362,
+			["Level"] = 20,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::16:63:::::::|h[Discerning Eye of the Beast]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 122262,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::16:63:::1:582::::|h[Ancient Bloodmoon Cloak]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 122353,
+			["Level"] = 20,
+			["Link"] = "|cff00ccff|Hitem:122353::::::::16:63:::::::|h[Dignified Headmaster's Charge]|h|r",
+		}, -- [16]
+		{
 			["ID"] = 122351,
 			["Level"] = 14,
-			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff00ccff|Hitem:122351::::::::11:260:::::::|h[Venerable Dal'Rend's Sacred Charge]|h|r",
-		},
-		[17] = {
-			["ID"] = 122350,
-			["Level"] = 12,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff00ccff|Hitem:122350::::::::10:260:::::::|h[Balanced Heartseeker]|h|r",
-		},
-		[15] = {
-			["ID"] = 122261,
-			["Level"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122261::::::::11:260:::1:582:1:28:2052:::|h[Inherited Cape of the Black Baron]|h|r",
-		},
+			["Link"] = "|cff00ccff|Hitem:122351::::::::11:260:::::::|h[Venerable Dal'Rend's Sacred Charge]|h|r",
+		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
-	["LastClass"] = "ROGUE",
+	["LastClass"] = "MAGE",
 	["LastAdded"] = 1,
 }
 PawnClassicScaleProviderOptions = nil

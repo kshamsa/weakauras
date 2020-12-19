@@ -1,43 +1,10 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Bustamoves-perenolde"
+RaiderIO_LastCharacter = "us-Icodehtml-perenolde"
 RaiderIO_MissingCharacters = {
-	["us-Buttfur-lightbringer"] = true,
-	["us-Fredouebest-dalaran"] = true,
-	["us-Maryswanson-cenarius"] = true,
-	["us-Prays-cenarius"] = true,
-	["us-Shangsohn-cairne"] = true,
-	["us-Hàvok-cenarius"] = true,
-	["us-Rhinoceri-nerzhul"] = true,
-	["us-Tweakin-bleeding-hollow"] = true,
-	["us-Bustamoves-perenolde"] = true,
-	["us-Sacredhealz-arygos"] = true,
-	["us-Stinkerbell-cenarius"] = true,
-	["us-Broadside-cairne"] = true,
-	["us-Markypoo-cenarius"] = true,
-	["us-Sdamien-nerzhul"] = true,
-	["us-Phallo-nerzhul"] = true,
-	["us-Kelivia-frostmourne"] = true,
-	["us-Vandkholme-frostmourne"] = true,
-	["us-Eatmyaxe-nerzhul"] = true,
-	["us-Salendra-perenolde"] = true,
-	["us-Komma-nerzhul"] = true,
-	["us-Gargass-frostmourne"] = true,
-	["us-Valireas-frostmourne"] = true,
-	["us-Zerexus-proudmoore"] = true,
-	["us-Frostyone-nerzhul"] = true,
-	["us-Akeno-kargath"] = true,
-	["us-Aniee-kelthuzad"] = true,
-	["us-Sherriebáby-perenolde"] = true,
-	["us-Geminisa-korgath"] = true,
-	["us-Avint-perenolde"] = true,
-	["us-Pepesilvia-nerzhul"] = true,
-	["us-Wontón-aerie-peak"] = true,
-	["us-Omgpicante-nerzhul"] = true,
-	["us-Fobellin-frostmourne"] = true,
-	["us-Carlander-korgath"] = true,
-	["us-Amera-perenolde"] = true,
-	["us-Brodié-cenarius"] = true,
+	["us-Cretin-draenor"] = true,
+	["us-Firelight-frostmane"] = true,
+	["us-Druidiv-kul-tiras"] = true,
 }
 RaiderIO_CachedRuns = nil

@@ -59,6 +59,17 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
+		["MAGE"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				-16, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = 1,
+			},
+		},
 		["PRIEST"] = {
 			["CureOrder"] = {
 				3, -- [1]
@@ -139,7 +150,7 @@ DecursiveDB = {
 	},
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1607913331,
+		["LastVersionAnnounce"] = 1608337841,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["profiles"] = {

@@ -7,10 +7,12 @@ PawnCommon = {
 	["ShowRelicUpgrades"] = false,
 	["ShowValuesForUpgradesOnly"] = true,
 	["ShowItemLevelUpgrades"] = true,
-	["Debug"] = false,
 	["IgnoreGemsWhileLeveling"] = true,
+	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
+	["ShowSpecIcons"] = true,
+	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"MrRobot\":HUNTER3"] = {
 			["IconTexturePath"] = 461113,
@@ -111,6 +113,9 @@ PawnCommon = {
 		["\"MrRobot\":MAGE2"] = {
 			["IconTexturePath"] = 135810,
 			["PerCharacterOptions"] = {
+				["Icodehtml-Perenolde"] = {
+					["Visible"] = true,
+				},
 			},
 			["Color"] = "3fc6ea",
 			["LocalizedName"] = "Mage: Fire",
@@ -144,9 +149,6 @@ PawnCommon = {
 		["\"MrRobot\":ROGUE2"] = {
 			["IconTexturePath"] = 236286,
 			["PerCharacterOptions"] = {
-				["Icodehtml-Perenolde"] = {
-					["Visible"] = true,
-				},
 			},
 			["Color"] = "fff468",
 			["LocalizedName"] = "Rogue: Outlaw",
@@ -242,13 +244,13 @@ PawnCommon = {
 				["IsCrossbow"] = -1000000,
 				["IsBow"] = -1000000,
 				["IsMail"] = -1000000,
-				["IsPlate"] = -1000000,
+				["IsSword"] = -1000000,
 				["IsLeather"] = -1000000,
 				["IsOffHand"] = -1000000,
-				["IsShield"] = -1000000,
-				["Is2HSword"] = -1000000,
 				["IsAxe"] = -1000000,
-				["IsSword"] = -1000000,
+				["Is2HSword"] = -1000000,
+				["IsShield"] = -1000000,
+				["IsPlate"] = -1000000,
 			},
 			["Color"] = "ffffff",
 			["ClassID"] = 5,
@@ -318,23 +320,23 @@ PawnCommon = {
 			["UnenchantedColor"] = "bf3950",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":PALADIN3"] = {
-			["IconTexturePath"] = 135873,
+		["\"MrRobot\":WARRIOR1"] = {
+			["IconTexturePath"] = 132355,
 			["PerCharacterOptions"] = {
-				["Arlan-Perenolde"] = {
+				["Hardis-Perenolde"] = {
 					["Visible"] = true,
 				},
 			},
-			["Color"] = "f48cba",
-			["LocalizedName"] = "Paladin: Retribution",
-			["ClassID"] = 2,
+			["Color"] = "c69b6d",
+			["LocalizedName"] = "Warrior: Arms",
+			["ClassID"] = 1,
 			["DoNotShow1HUpgrades"] = true,
 			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "b7698b",
-			["SpecID"] = 3,
+			["UnenchantedColor"] = "947451",
+			["SpecID"] = 1,
 		},
 		["\"MrRobot\":WARLOCK2"] = {
 			["IconTexturePath"] = 136172,
@@ -350,6 +352,21 @@ PawnCommon = {
 			["Provider"] = "MrRobot",
 			["UnenchantedColor"] = "6565b1",
 			["SpecID"] = 2,
+		},
+		["\"MrRobot\":SHAMAN3"] = {
+			["IconTexturePath"] = 136052,
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "0070dd",
+			["LocalizedName"] = "Shaman: Restoration",
+			["ClassID"] = 7,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "HEALER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "0054a5",
+			["SpecID"] = 3,
 		},
 		["\"MrRobot\":DEMONHUNTER2"] = {
 			["IconTexturePath"] = 1247265,
@@ -372,34 +389,19 @@ PawnCommon = {
 			["UnenchantedColor"] = "7a2496",
 			["SpecID"] = 2,
 		},
-		["\"MrRobot\":SHAMAN3"] = {
-			["IconTexturePath"] = 136052,
+		["\"MrRobot\":PALADIN2"] = {
+			["IconTexturePath"] = 236264,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "0070dd",
-			["LocalizedName"] = "Shaman: Restoration",
-			["ClassID"] = 7,
+			["Color"] = "f48cba",
+			["LocalizedName"] = "Paladin: Protection",
+			["ClassID"] = 2,
 			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "HEALER",
-			["DoNotShow2HUpgrades"] = false,
+			["Role"] = "TANK",
+			["DoNotShow2HUpgrades"] = true,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "0054a5",
-			["SpecID"] = 3,
-		},
-		["\"MrRobot\":DRUID2"] = {
-			["IconTexturePath"] = 132115,
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "ff7c0a",
-			["LocalizedName"] = "Druid: Feral",
-			["ClassID"] = 11,
-			["DoNotShow1HUpgrades"] = true,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "bf5d07",
+			["UnenchantedColor"] = "b7698b",
 			["SpecID"] = 2,
 		},
 		["\"MrRobot\":DEATHKNIGHT3"] = {
@@ -528,38 +530,38 @@ PawnCommon = {
 			["UnenchantedColor"] = "2f94af",
 			["SpecID"] = 1,
 		},
-		["\"MrRobot\":PALADIN2"] = {
-			["IconTexturePath"] = 236264,
+		["\"MrRobot\":DRUID2"] = {
+			["IconTexturePath"] = 132115,
 			["PerCharacterOptions"] = {
 			},
-			["Color"] = "f48cba",
-			["LocalizedName"] = "Paladin: Protection",
-			["ClassID"] = 2,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "TANK",
-			["DoNotShow2HUpgrades"] = true,
-			["UpgradesFollowSpecialization"] = true,
-			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "b7698b",
-			["SpecID"] = 2,
-		},
-		["\"MrRobot\":WARRIOR1"] = {
-			["IconTexturePath"] = 132355,
-			["PerCharacterOptions"] = {
-				["Hardis-Perenolde"] = {
-					["Visible"] = true,
-				},
-			},
-			["Color"] = "c69b6d",
-			["LocalizedName"] = "Warrior: Arms",
-			["ClassID"] = 1,
+			["Color"] = "ff7c0a",
+			["LocalizedName"] = "Druid: Feral",
+			["ClassID"] = 11,
 			["DoNotShow1HUpgrades"] = true,
 			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = true,
 			["Provider"] = "MrRobot",
-			["UnenchantedColor"] = "947451",
-			["SpecID"] = 1,
+			["UnenchantedColor"] = "bf5d07",
+			["SpecID"] = 2,
+		},
+		["\"MrRobot\":PALADIN3"] = {
+			["IconTexturePath"] = 135873,
+			["PerCharacterOptions"] = {
+				["Arlan-Perenolde"] = {
+					["Visible"] = true,
+				},
+			},
+			["Color"] = "f48cba",
+			["LocalizedName"] = "Paladin: Retribution",
+			["ClassID"] = 2,
+			["DoNotShow1HUpgrades"] = true,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = true,
+			["Provider"] = "MrRobot",
+			["UnenchantedColor"] = "b7698b",
+			["SpecID"] = 3,
 		},
 		["\"MrRobot\":DRUID3"] = {
 			["IconTexturePath"] = 132276,
@@ -603,7 +605,7 @@ PawnCommon = {
 				["Gayweed-Perenolde"] = {
 					["Visible"] = true,
 				},
-				["Bustamoves-Perenolde"] = {
+				["Gayerweed-Perenolde"] = {
 					["Visible"] = true,
 				},
 				["Mightysanta-Perenolde"] = {
@@ -612,7 +614,7 @@ PawnCommon = {
 				["Toughsanta-Perenolde"] = {
 					["Visible"] = true,
 				},
-				["Gayerweed-Perenolde"] = {
+				["Bustamoves-Perenolde"] = {
 					["Visible"] = true,
 				},
 				["Nutbusta-Perenolde"] = {
@@ -649,8 +651,6 @@ PawnCommon = {
 			["SpecID"] = 3,
 		},
 	},
-	["ShowSocketingAdvisor"] = true,
-	["ShowSpecIcons"] = true,
 	["LastVersion"] = 2.0408,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,

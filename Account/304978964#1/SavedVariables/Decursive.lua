@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1607920756,
+		["LastVersionAnnounce"] = 1608337841,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["class"] = {
@@ -37,6 +37,17 @@ DecursiveDB = {
 				[8] = -11,
 				[16] = -12,
 				[32] = -16,
+			},
+		},
+		["MAGE"] = {
+			["CureOrder"] = {
+				-12, -- [1]
+				-16, -- [2]
+				nil, -- [3]
+				-13, -- [4]
+				[8] = -14,
+				[16] = -15,
+				[32] = 1,
 			},
 		},
 		["PRIEST"] = {
