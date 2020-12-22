@@ -1,9 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0401,
-	["LastPlayerFullName"] = "Harnis-Perenolde",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
+	["LastVersion"] = 2.0408,
 	["ItemLevels"] = {
 		{
 			["ID"] = 129313,
@@ -71,9 +68,9 @@ PawnOptions = {
 		}, -- [13]
 		{
 			["ID"] = 122361,
-			["Level"] = 45,
+			["Level"] = 46,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::40:72:::::::|h[Swift Hand of Justice]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::41:73:::::::|h[Swift Hand of Justice]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 121567,
@@ -86,7 +83,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122349::::::::41:72:::1:583:1:28:2053:::|h[Bloodied Arcanite Reaper]|h|r",
 		}, -- [16]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Harnis-Perenolde",
 	["Artifacts"] = {
 		[128910] = {
 			["Relics"] = {
@@ -101,6 +100,7 @@ PawnOptions = {
 			["Name"] = "Strom'kar, the Warbreaker",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",

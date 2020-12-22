@@ -1,9 +1,30 @@
 
 DecursiveDB = {
-	["global"] = {
-		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1608337841,
-		["NewerVersionAlert"] = 1606321097,
+	["profileKeys"] = {
+		["Burimbor - Perenolde"] = "Default",
+		["Jafaar - Perenolde"] = "Default",
+		["Toughsanta - Perenolde"] = "Default",
+		["Arlan - Perenolde"] = "Default",
+		["Bustamoves - Perenolde"] = "Default",
+		["Druidguy - Perenolde"] = "Default",
+		["Hardis - Perenolde"] = "Default",
+		["Harnis - Perenolde"] = "Default",
+		["Ilikebdsm - Perenolde"] = "Default",
+		["Mybowelssuck - Perenolde"] = "Default",
+		["Melonlord - Perenolde"] = "Default",
+		["Ultannix - Perenolde"] = "Default",
+		["Paulblart - Perenolde"] = "Default",
+		["Mightysanta - Perenolde"] = "Default",
+		["Nutbusta - Perenolde"] = "Default",
+		["Icodehtml - Perenolde"] = "Default",
+		["Notaphase - Perenolde"] = "Default",
+		["Gayerweed - Perenolde"] = "Default",
+		["Weste - Perenolde"] = "Default",
+		["Jakestatefrm - Perenolde"] = "Default",
+		["Gayweed - Perenolde"] = "Default",
+		["Imyerstepdad - Perenolde"] = "Default",
+		["Peilla - Perenolde"] = "Default",
+		["Aylia - Perenolde"] = "Default",
 	},
 	["class"] = {
 		["DEATHKNIGHT"] = {
@@ -83,15 +104,15 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
-		["ROGUE"] = {
+		["SHAMAN"] = {
 			["CureOrder"] = {
-				-11, -- [1]
-				-15, -- [2]
+				4, -- [1]
+				2, -- [2]
 				nil, -- [3]
-				-12, -- [4]
-				[8] = -13,
-				[16] = -14,
-				[32] = -16,
+				1, -- [4]
+				[8] = -15,
+				[16] = -16,
+				[32] = 3,
 			},
 		},
 		["DRUID"] = {
@@ -116,42 +137,22 @@ DecursiveDB = {
 				[32] = -16,
 			},
 		},
-		["SHAMAN"] = {
+		["ROGUE"] = {
 			["CureOrder"] = {
-				-14, -- [1]
-				2, -- [2]
+				-11, -- [1]
+				-15, -- [2]
 				nil, -- [3]
-				1, -- [4]
-				[8] = -15,
-				[16] = -16,
-				[32] = 3,
+				-12, -- [4]
+				[8] = -13,
+				[16] = -14,
+				[32] = -16,
 			},
 		},
 	},
-	["profileKeys"] = {
-		["Burimbor - Perenolde"] = "Default",
-		["Jafaar - Perenolde"] = "Default",
-		["Toughsanta - Perenolde"] = "Default",
-		["Arlan - Perenolde"] = "Default",
-		["Bustamoves - Perenolde"] = "Default",
-		["Druidguy - Perenolde"] = "Default",
-		["Hardis - Perenolde"] = "Default",
-		["Harnis - Perenolde"] = "Default",
-		["Ilikebdsm - Perenolde"] = "Default",
-		["Mybowelssuck - Perenolde"] = "Default",
-		["Ultannix - Perenolde"] = "Default",
-		["Paulblart - Perenolde"] = "Default",
-		["Mightysanta - Perenolde"] = "Default",
-		["Nutbusta - Perenolde"] = "Default",
-		["Icodehtml - Perenolde"] = "Default",
-		["Notaphase - Perenolde"] = "Default",
-		["Aylia - Perenolde"] = "Default",
-		["Weste - Perenolde"] = "Default",
-		["Imyerstepdad - Perenolde"] = "Default",
-		["Gayweed - Perenolde"] = "Default",
-		["Jakestatefrm - Perenolde"] = "Default",
-		["Peilla - Perenolde"] = "Default",
-		["Gayerweed - Perenolde"] = "Default",
+	["global"] = {
+		["LastExpirationAlert"] = 1562389110,
+		["LastVersionAnnounce"] = 1608613898,
+		["NewerVersionAlert"] = 1606321097,
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -1,6 +1,9 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0401,
+	["LastPlayerFullName"] = "Harnis-Perenolde",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 129313,
@@ -20,8 +23,8 @@ PawnOptions = {
 		nil, -- [4]
 		{
 			["ID"] = 122387,
-			["Level"] = 45,
-			["Link"] = "|cff00ccff|Hitem:122387::::::::40:71:::1:583::::|h[Burnished Breastplate of Might]|h|r",
+			["Level"] = 46,
+			["Link"] = "|cff00ccff|Hitem:122387::::::::41:72:::1:583::::|h[Burnished Breastplate of Might]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 121134,
@@ -55,16 +58,16 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:129353::::::::40:72::11:2:664:1736:1:9:40:::|h[Tender Hjarta Loop]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 129239,
-			["Level"] = 45,
+			["ID"] = 129353,
+			["Level"] = 46,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff1eff00|Hitem:129239::::::::40:72::11:1:768:1:9:40:::|h[Bloodbeard's Seal]|h|r",
+			["Link"] = "|cff0070dd|Hitem:129353::::::::41:72::11:2:664:1736:1:9:40:::|h[Tender Hjarta Loop]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 122361,
-			["Level"] = 45,
+			["Level"] = 46,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::40:71:::::::|h[Swift Hand of Justice]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::41:72:::::::|h[Swift Hand of Justice]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 122361,
@@ -79,13 +82,11 @@ PawnOptions = {
 		}, -- [15]
 		{
 			["ID"] = 122349,
-			["Level"] = 45,
-			["Link"] = "|cff00ccff|Hitem:122349::::::::40:72:::1:583:1:28:2053:::|h[Bloodied Arcanite Reaper]|h|r",
+			["Level"] = 46,
+			["Link"] = "|cff00ccff|Hitem:122349::::::::41:72:::1:583:1:28:2053:::|h[Bloodied Arcanite Reaper]|h|r",
 		}, -- [16]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Harnis-Perenolde",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128910] = {
 			["Relics"] = {
@@ -100,7 +101,6 @@ PawnOptions = {
 			["Name"] = "Strom'kar, the Warbreaker",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",

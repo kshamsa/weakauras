@@ -6,8 +6,8 @@ PawnOptions = {
 	["ItemLevels"] = {
 		{
 			["ID"] = 122250,
-			["Level"] = 20,
-			["Link"] = "|cff00ccff|Hitem:122250::::::::16:63:::1:582::::|h[Tattered Dreadmist Mask]|h|r",
+			["Level"] = 21,
+			["Link"] = "|cff00ccff|Hitem:122250::::::::17:63:::1:582::::|h[Tattered Dreadmist Mask]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 122666,
@@ -22,18 +22,18 @@ PawnOptions = {
 		nil, -- [4]
 		{
 			["ID"] = 122384,
-			["Level"] = 20,
-			["Link"] = "|cff00ccff|Hitem:122384::::::::16:63:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
+			["Level"] = 21,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::17:63:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 24395,
-			["Level"] = 19,
-			["Link"] = "|cff0070dd|Hitem:24395::::::::15:63::1:1:6710:2:28:1887:9:15:::|h[Mindfire Waistband]|h|r",
+			["ID"] = 58907,
+			["Level"] = 22,
+			["Link"] = "|cffa335ee|Hitem:58907::::::::16:63::11:2:3631:6700:2:28:1813:9:16:::|h[Crime Scene Tape]|h|r",
 		}, -- [6]
 		{
 			["ID"] = 122256,
-			["Level"] = 20,
-			["Link"] = "|cff00ccff|Hitem:122256::::::::16:63:::1:582::::|h[Tattered Dreadmist Leggings]|h|r",
+			["Level"] = 21,
+			["Link"] = "|cff00ccff|Hitem:122256::::::::17:63:::1:582::::|h[Tattered Dreadmist Leggings]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 27728,
@@ -64,25 +64,25 @@ PawnOptions = {
 		}, -- [12]
 		{
 			["ID"] = 122361,
-			["Level"] = 20,
+			["Level"] = 21,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::16:63:::::::|h[Swift Hand of Justice]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::17:63:::::::|h[Swift Hand of Justice]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 122362,
-			["Level"] = 20,
+			["Level"] = 21,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::16:63:::::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::17:63:::::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 122262,
-			["Level"] = 20,
-			["Link"] = "|cff00ccff|Hitem:122262::::::::16:63:::1:582::::|h[Ancient Bloodmoon Cloak]|h|r",
+			["Level"] = 21,
+			["Link"] = "|cff00ccff|Hitem:122262::::::::17:63:::1:582::::|h[Ancient Bloodmoon Cloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 122353,
-			["Level"] = 20,
-			["Link"] = "|cff00ccff|Hitem:122353::::::::16:63:::::::|h[Dignified Headmaster's Charge]|h|r",
+			["Level"] = 21,
+			["Link"] = "|cff00ccff|Hitem:122353::::::::17:63:::::::|h[Dignified Headmaster's Charge]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 122351,

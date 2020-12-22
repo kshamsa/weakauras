@@ -6,8 +6,8 @@ PawnOptions = {
 	["ItemLevels"] = {
 		{
 			["ID"] = 178692,
-			["Level"] = 187,
-			["Link"] = "|cffa335ee|Hitem:178692::::::::60:263::16:5:6808:6652:7194:1501:6646:1:28:1279:::|h[Soulthorn Visage]|h|r",
+			["Level"] = 190,
+			["Link"] = "|cffa335ee|Hitem:178692::::::::60:263::16:6:6809:6652:7194:1501:5848:6646:1:28:1279:::|h[Soulthorn Visage]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 178707,
@@ -21,9 +21,9 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 178815,
-			["Level"] = 194,
-			["Link"] = "|cffa335ee|Hitem:178815::::::::60:263::16:5:7203:6652:1501:5852:6646:1:28:1279:::|h[Soaring Decimator's Hauberk]|h|r",
+			["ID"] = 183000,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183000::::::::60:263::3:4:7189:6652:1472:6646:1:28:751:::|h[Consumptive Chainmail Carapace]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 172328,
