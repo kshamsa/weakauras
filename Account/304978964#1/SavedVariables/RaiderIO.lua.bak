@@ -1,13 +1,22 @@
 
 RaiderIO_Config = {
 }
-RaiderIO_LastCharacter = "us-Harnis-perenolde"
+RaiderIO_LastCharacter = "us-Bustamoves-perenolde"
 RaiderIO_MissingCharacters = {
-	["us-Wyckedd-frostmane"] = true,
-	["us-Denas-perenolde"] = true,
-	["us-Tîm-nerzhul"] = true,
-	["us-Billbad-draenor"] = true,
-	["us-Sel-nerzhul"] = true,
-	["us-Isolipsis-korgath"] = true,
+	["us-Rayspriest-cairne"] = true,
+	["us-Eriu-perenolde"] = true,
+	["us-Pocketrockit-korgath"] = true,
+	["us-Smexytank-nerzhul"] = true,
+	["us-Menojob-nerzhul"] = true,
+	["us-Grinchy-korgath"] = true,
+	["us-Bubiekins-cenarius"] = true,
+	["us-Holdan-cenarius"] = true,
+	["us-Catmeowski-cenarius"] = true,
+	["us-Mulgogi-nerzhul"] = true,
+	["us-Domanik-frostmane"] = true,
+	["us-Dya-cenarius"] = true,
+	["us-Növa-cairne"] = true,
+	["us-Jormag-korgath"] = true,
+	["us-Honto-cenarius"] = true,
 }
 RaiderIO_CachedRuns = nil

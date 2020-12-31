@@ -20,7 +20,7 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
-			["y"] = 172.0005798339844,
+			["y"] = 118.0031204223633,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -48,11 +48,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["x"] = -58.902587890625,
 			["hiddenRules"] = {
 			},
-			["x"] = -407.0914306640625,
+			["borderColor"] = {
+			},
 		},
 		["vault"] = {
 			["y"] = -281,
@@ -83,13 +83,14 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["x"] = 95.00000762939453,
 			["hiddenRules"] = {
 			},
-			["x"] = 95.00000762939453,
+			["borderColor"] = {
+			},
 		},
 		["guild"] = {
+			["y"] = 323.9999694824219,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -112,14 +113,16 @@ Bagnon_Sets = {
 				"quest", -- [19]
 				"misc", -- [20]
 			},
+			["point"] = "BOTTOMLEFT",
 			["borderColor"] = {
 			},
 			["color"] = {
 			},
-			["hiddenRules"] = {
-			},
 			["hiddenBags"] = {
 			},
+			["hiddenRules"] = {
+			},
+			["x"] = 679.9999389648438,
 		},
 		["bank"] = {
 			["y"] = -388.5000610351563,
@@ -150,11 +153,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["x"] = 95.00000762939453,
 			["hiddenRules"] = {
 			},
-			["x"] = 95.00000762939453,
+			["borderColor"] = {
+			},
 		},
 	},
 	["keyColor"] = {
@@ -166,10 +169,10 @@ Bagnon_Sets = {
 	["mineColor"] = {
 	},
 	["version"] = "9.0.4",
-	["leatherColor"] = {
+	["herbColor"] = {
 	},
 	["enchantColor"] = {
 	},
-	["herbColor"] = {
+	["leatherColor"] = {
 	},
 }

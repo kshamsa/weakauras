@@ -1,0 +1,99 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0409,
+	["LastPlayerFullName"] = "Adley-Perenolde",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 113759,
+			["Level"] = 48,
+			["Link"] = "|cff0070dd|Hitem:113759::::::::42:265::1:2:4244:24:2:28:1696:9:42:::|h[Smoldercloth Cap of the Fireflash]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 63797,
+			["Level"] = 40,
+			["Link"] = "|cff1eff00|Hitem:63797::::::::36:265::11:1:3631:2:28:1826:9:36:::|h[Eye of Despair]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 56324,
+			["Level"] = 47,
+			["Link"] = "|cff0070dd|Hitem:56324::::::::41:265::1:1:6710:2:28:1835:9:41:::|h[Kyrstel Mantle]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 122384,
+			["Level"] = 46,
+			["Link"] = "|cff00ccff|Hitem:122384::::::::41:265:::1:582::::|h[Tattered Dreadmist Robe]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 63780,
+			["Level"] = 46,
+			["Link"] = "|cff0070dd|Hitem:63780::::::::40:265::11:2:3631:6697:2:28:1826:9:40:::|h[Dragonmender Waistguard]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 113761,
+			["Level"] = 47,
+			["Link"] = "|cff0070dd|Hitem:113761::::::::41:265::1:2:4244:46:2:28:1696:9:41:::|h[Smoldercloth Leggings of the Peerless]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 113786,
+			["Level"] = 48,
+			["Link"] = "|cff0070dd|Hitem:113786::::::::42:265::1:2:4244:126:2:28:1696:9:42:::|h[Smoldercloth Slippers of the Feverflare]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 44338,
+			["Level"] = 45,
+			["Link"] = "|cff0070dd|Hitem:44338::::::::39:265::11:1:6710:2:28:1876:9:39:::|h[Cuffs of Gratitude]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 113763,
+			["Level"] = 49,
+			["Link"] = "|cff0070dd|Hitem:113763::::::::43:265::1:2:4244:47:2:28:1696:9:43:::|h[Smoldercloth Gloves of the Peerless]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 56373,
+			["Level"] = 48,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:56373::::::::42:265::1:1:6710:2:28:1838:9:42:::|h[Ring of Frozen Rain]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 56373,
+			["Level"] = 48,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:56373::::::::43:265::1:1:6710:2:28:1838:9:42:::|h[Ring of Frozen Rain]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 122362,
+			["Level"] = 49,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::43:265:::::::|h[Discerning Eye of the Beast]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 122362,
+			["Level"] = 48,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff00ccff|Hitem:122362::::::::42:265:::::::|h[Discerning Eye of the Beast]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 63768,
+			["Level"] = 46,
+			["Link"] = "|cff1eff00|Hitem:63768::::::::41:265::11:1:3631:2:28:1826:9:41:::|h[Cloak of Grand Leadership]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 122368,
+			["Level"] = 49,
+			["Link"] = "|cff00ccff|Hitem:122368::::::::43:265:::1:582::::|h[Grand Staff of Jordan]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 56349,
+			["Level"] = 49,
+			["Link"] = "|cff0070dd|Hitem:56349::::::::43:265::1:1:6710:2:28:1840:9:43:::|h[Prophet's Scepter]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

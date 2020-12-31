@@ -1,5 +1,6 @@
 VER 3 0000000000000005 "Decursive" "INV_MISC_QUESTIONMARK"
-/script DecursiveRootTable.Dcr:Println('No spell available')
+/stopcasting
+/cast [@mouseover,nomod,exists] Cleanse Spirit;  [@mouseover,exists,mod:ctrl] Purge; [@mouseover,exists,mod:shift] Hex
 END
 VER 3 0000000000000004 "T_Sundering" "524794"
 #showtooltip

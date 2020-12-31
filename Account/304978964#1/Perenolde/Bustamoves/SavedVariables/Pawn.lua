@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0408,
-	["LastPlayerFullName"] = "Bustamoves-Perenolde",
-	["AutoSelectScales"] = true,
+	["LastVersion"] = 2.0409,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178692,
@@ -15,9 +13,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:178707::::::::60:264::2:5:6806:6652:7194:1485:4785:1:28:748:::|h[Trailspinner Pendant]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 178733,
-			["Level"] = 187,
-			["Link"] = "|cffa335ee|Hitem:178733::::::::60:263::16:4:6808:6652:1501:6646:1:28:1279:::|h[Blightbone Spaulders]|h|r",
+			["ID"] = 178695,
+			["Level"] = 207,
+			["Link"] = "|cffa335ee|Hitem:178695::::::::60:264::35:5:7203:6652:1501:5865:6646::::|h[Wintersnap Shoulderguards]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
@@ -80,18 +78,21 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178755::::::::60:263::23:4:6807:6652:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 178857,
-			["Level"] = 200,
+			["ID"] = 180095,
+			["Level"] = 210,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cffa335ee|Hitem:178857::::::::60:263::35:5:6808:6652:1501:5858:6646::::|h[Stone General's Edge]|h|r",
+			["Link"] = "|cffa335ee|Hitem:180095::::::::60:263::35:5:7204:6652:1501:5868:6646::::|h[Penitent Edge]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 178857,
-			["Level"] = 200,
+			["ID"] = 180095,
+			["Level"] = 210,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cffa335ee|Hitem:178857::::::::60:264::35:5:6808:6652:1501:5858:6646::::|h[Stone General's Edge]|h|r",
+			["Link"] = "|cffa335ee|Hitem:180095:6229:::::::60:263::35:5:7204:6652:1501:5868:6646::::|h[Penitent Edge]|h|r",
 		}, -- [17]
 	},
+	["AutoSelectScales"] = false,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Bustamoves-Perenolde",
 	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {

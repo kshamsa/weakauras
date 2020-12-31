@@ -1,11 +1,14 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.0408,
+	["LastPlayerFullName"] = "Harnis-Perenolde",
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 129313,
-			["Level"] = 43,
-			["Link"] = "|cff1eff00|Hitem:129313::::::::40:71::11:1:767:1:9:39:::|h[Tinkermaster's Mindvault]|h|r",
+			["ID"] = 160122,
+			["Level"] = 45,
+			["Link"] = "|cff1eff00|Hitem:160122::::::::43:73:::2:6654:1717:2:28:1228:9:42:::|h[Direbone Frill Helmet of the Harmonious]|h|r",
 		}, -- [1]
 		{
 			["ID"] = 121563,
@@ -20,8 +23,8 @@ PawnOptions = {
 		nil, -- [4]
 		{
 			["ID"] = 122387,
-			["Level"] = 46,
-			["Link"] = "|cff00ccff|Hitem:122387::::::::41:72:::1:583::::|h[Burnished Breastplate of Might]|h|r",
+			["Level"] = 50,
+			["Link"] = "|cff00ccff|Hitem:122387::::::::44:73:::1:583::::|h[Burnished Breastplate of Might]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 121134,
@@ -29,9 +32,9 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:121134::::::::40:72:::2:1812:1689:1:9:39:::|h[Haustvelt Waistband of the Peerless]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 112603,
-			["Level"] = 44,
-			["Link"] = "|cff0070dd|Hitem:112603::::::::40:71::11:1:3787:1:9:38:::|h[Foundry-Fired Plate Legguards]|h|r",
+			["ID"] = 159435,
+			["Level"] = 49,
+			["Link"] = "|cff0070dd|Hitem:159435::::::::43:73::19:2:4776:6513:2:28:1226:9:43:::|h[Legplates of Charged Duality]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 129232,
@@ -39,38 +42,38 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:129232::::::::40:71::11:2:664:1736:1:9:40:::|h[Dreadsworn Greaves]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 121761,
-			["Level"] = 45,
-			["Link"] = "|cff0070dd|Hitem:121761::::::::40:71::11:2:767:1733:1:9:39:::|h[Skyfire Marine's Vambraces]|h|r",
+			["ID"] = 160212,
+			["Level"] = 50,
+			["Link"] = "|cff0070dd|Hitem:160212::::::::45:73::19:2:4776:6513:2:28:1224:9:45:::|h[Shadowshroud Vambraces]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 134557,
-			["Level"] = 45,
-			["Link"] = "|cff0070dd|Hitem:134557::::::::40:71::11:2:767:1733:1:9:39:::|h[Dreadsworn Gauntlets]|h|r",
+			["ID"] = 155890,
+			["Level"] = 49,
+			["Link"] = "|cff0070dd|Hitem:155890::::::::43:73::19:3:4776:4802:6515:2:28:1220:9:43:::|h[Sharktooth-Knuckled Grips]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 129353,
-			["Level"] = 46,
+			["ID"] = 162548,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:129353::::::::40:72::11:2:664:1736:1:9:40:::|h[Tender Hjarta Loop]|h|r",
+			["Link"] = "|cff0070dd|Hitem:162548::::::::44:73::19:2:4776:6515:2:28:1222:9:44:::|h[Thornwoven Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 129353,
-			["Level"] = 46,
+			["ID"] = 162548,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:129353::::::::41:72::11:2:664:1736:1:9:40:::|h[Tender Hjarta Loop]|h|r",
+			["Link"] = "|cff0070dd|Hitem:162548::::::::45:73::19:2:4776:6515:2:28:1222:9:44:::|h[Thornwoven Band]|h|r",
 		}, -- [12]
 		{
 			["ID"] = 122361,
-			["Level"] = 46,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::41:72:::::::|h[Swift Hand of Justice]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::44:73:::::::|h[Swift Hand of Justice]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 122361,
-			["Level"] = 46,
+			["Level"] = 50,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122361::::::::41:73:::::::|h[Swift Hand of Justice]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122361::::::::45:73:::::::|h[Swift Hand of Justice]|h|r",
 		}, -- [14]
 		{
 			["ID"] = 121567,
@@ -78,14 +81,18 @@ PawnOptions = {
 			["Link"] = "|cff1eff00|Hitem:121567::::::::40:71::11:1:664:1:9:39:::|h[Galeborn's Oiled Cloak]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 122349,
-			["Level"] = 46,
-			["Link"] = "|cff00ccff|Hitem:122349::::::::41:72:::1:583:1:28:2053:::|h[Bloodied Arcanite Reaper]|h|r",
+			["ID"] = 158373,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff0070dd|Hitem:158373::::::::44:73::19:3:4776:43:6513:2:28:1226:9:44:::|h[Resonating Crystal Scimitar]|h|r",
 		}, -- [16]
+		{
+			["ID"] = 122391,
+			["Level"] = 50,
+			["Link"] = "|cff00ccff|Hitem:122391::::::::44:73:::1:582::::|h[Flamescarred Draconian Deflector]|h|r",
+		}, -- [17]
 	},
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
-	["LastPlayerFullName"] = "Harnis-Perenolde",
+	["LastKeybindingsSet"] = 1,
 	["Artifacts"] = {
 		[128910] = {
 			["Relics"] = {
@@ -100,7 +107,6 @@ PawnOptions = {
 			["Name"] = "Strom'kar, the Warbreaker",
 		},
 	},
-	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",
