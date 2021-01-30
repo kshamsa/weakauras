@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1609451683,
+		["LastVersionAnnounce"] = 1612038863,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["class"] = {
@@ -63,8 +63,8 @@ DecursiveDB = {
 		},
 		["WARLOCK"] = {
 			["CureOrder"] = {
-				2, -- [1]
-				-13, -- [2]
+				-13, -- [1]
+				2, -- [2]
 				nil, -- [3]
 				-14, -- [4]
 				[8] = -15,

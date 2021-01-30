@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Adley-Perenolde",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
@@ -15,15 +15,15 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:56288::::::::44:265::1:1:6710:2:28:259:9:44:::|h[Pipefish Cord]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 56324,
-			["Level"] = 47,
-			["Link"] = "|cff0070dd|Hitem:56324::::::::41:265::1:1:6710:2:28:1835:9:41:::|h[Kyrstel Mantle]|h|r",
+			["ID"] = 51969,
+			["Level"] = 55,
+			["Link"] = "|cff0070dd|Hitem:51969::::::::48:265::1:2:4244:1709:2:28:1694:9:48:::|h[Enumerated Shoulders of the Aurora]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
 			["ID"] = 113762,
-			["Level"] = 50,
-			["Link"] = "|cff0070dd|Hitem:113762::::::::44:265::1:2:4244:113:2:28:1696:9:44:::|h[Smoldercloth Robe of the Feverflare]|h|r",
+			["Level"] = 53,
+			["Link"] = "|cff0070dd|Hitem:113762::::::::47:265::1:2:4244:53:2:28:1696:9:47:::|h[Smoldercloth Robe of the Peerless]|h|r",
 		}, -- [5]
 		{
 			["ID"] = 63780,
@@ -31,9 +31,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:63780::::::::40:265::11:2:3631:6697:2:28:1826:9:40:::|h[Dragonmender Waistguard]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 25711,
-			["Level"] = 50,
-			["Link"] = "|cff0070dd|Hitem:25711::::::::45:265::11:1:6710:2:28:1887:9:45:::|h[Deadly Borer Leggings]|h|r",
+			["ID"] = 27418,
+			["Level"] = 53,
+			["Link"] = "|cff0070dd|Hitem:27418::::::::47:265::1:1:6710:2:28:1891:9:47:::|h[Stormreaver Shadow-Kilt]|h|r",
 		}, -- [7]
 		{
 			["ID"] = 113786,
@@ -46,9 +46,9 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:28029::::::::45:265::11:1:6710:2:28:1888:9:45:::|h[Goldenvine Wraps]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 113763,
-			["Level"] = 49,
-			["Link"] = "|cff0070dd|Hitem:113763::::::::43:265::1:2:4244:47:2:28:1696:9:43:::|h[Smoldercloth Gloves of the Peerless]|h|r",
+			["ID"] = 29317,
+			["Level"] = 53,
+			["Link"] = "|cff0070dd|Hitem:29317::::::::47:265::11:1:6710:2:28:1891:9:47:::|h[Tempest's Touch]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 27491,
@@ -64,25 +64,25 @@ PawnOptions = {
 		}, -- [12]
 		{
 			["ID"] = 122362,
-			["Level"] = 50,
+			["Level"] = 58,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::44:265:::::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::49:265:::::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [13]
 		{
 			["ID"] = 122362,
-			["Level"] = 50,
+			["Level"] = 58,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff00ccff|Hitem:122362::::::::45:265:::::::|h[Discerning Eye of the Beast]|h|r",
+			["Link"] = "|cff00ccff|Hitem:122362::::::::50:265:::::::|h[Discerning Eye of the Beast]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 63768,
-			["Level"] = 46,
-			["Link"] = "|cff1eff00|Hitem:63768::::::::41:265::11:1:3631:2:28:1826:9:41:::|h[Cloak of Grand Leadership]|h|r",
+			["ID"] = 27789,
+			["Level"] = 55,
+			["Link"] = "|cff0070dd|Hitem:27789::::::::48:265::1:1:6710:2:28:1895:9:48:::|h[Cloak of Whispering Shells]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 122368,
-			["Level"] = 49,
-			["Link"] = "|cff00ccff|Hitem:122368::::::::43:265:::1:582::::|h[Grand Staff of Jordan]|h|r",
+			["ID"] = 24380,
+			["Level"] = 51,
+			["Link"] = "|cff0070dd|Hitem:24380::::::::46:265::1:1:6710:2:28:1888:9:46:::|h[Calming Spore Reed]|h|r",
 		}, -- [16]
 		{
 			["ID"] = 56349,

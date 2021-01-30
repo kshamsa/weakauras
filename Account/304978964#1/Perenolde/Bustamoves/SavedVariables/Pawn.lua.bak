@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0409,
+	["LastVersion"] = 2.041,
 	["LastPlayerFullName"] = "Bustamoves-Perenolde",
 	["AutoSelectScales"] = false,
 	["UpgradeTracking"] = false,
@@ -11,9 +11,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178692::::::::60:263::16:6:6809:6652:7194:1501:5848:6646:1:28:1279:::|h[Soulthorn Visage]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 178707,
-			["Level"] = 171,
-			["Link"] = "|cff0070dd|Hitem:178707::::::::60:264::2:5:6806:6652:7194:1485:4785:1:28:748:::|h[Trailspinner Pendant]|h|r",
+			["ID"] = 183040,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183040::::::::60:263::3:5:7189:6652:7194:1472:6646::::|h[Charm of Eternal Winter]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178695,
@@ -47,38 +47,38 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:184126::::::::60:263::81:4:6652:7193:1492:6646:1:28:2060:::|h[Ironroot Bindings]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 178841,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178841::::::::60:263::23:4:6807:6652:1498:6646:1:28:749:::|h[Iron Spiked Handgrips]|h|r",
+			["ID"] = 180105,
+			["Level"] = 216,
+			["Link"] = "|cffa335ee|Hitem:180105::::::::60:263::35:5:7207:6652:1501:5874:6646::::|h[Absonant Construct's Handguards]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 184783,
-			["Level"] = 190,
+			["ID"] = 184142,
+			["Level"] = 207,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cffa335ee|Hitem:184783::::::::60:263::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184142::::::::60:263::81:4:6652:7193:1492:6646:1:28:2060:::|h[Twisted Witherroot Band]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 184783,
-			["Level"] = 190,
+			["ID"] = 184142,
+			["Level"] = 207,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:184783::::::::60:264::2:4:6652:7193:1472:6646:1:28:748:::|h[Muirnne's Stormforged Signet]|h|r",
+			["Link"] = "|cffa335ee|Hitem:184142::::::::60:264::81:4:6652:7193:1492:6646:1:28:2060:::|h[Twisted Witherroot Band]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 178809,
-			["Level"] = 184,
+			["ID"] = 178771,
+			["Level"] = 213,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:178809::::::::60:264::23:4:6807:6652:1498:6646:1:28:749:::|h[Soulletting Ruby]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178771::::::::60:263::35:5:7206:6652:1501:5871:6646::::|h[Phial of Putrefaction]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 178809,
-			["Level"] = 184,
+			["ID"] = 178771,
+			["Level"] = 213,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:178809::::::::60:263::23:4:6807:6652:1498:6646:1:28:749:::|h[Soulletting Ruby]|h|r",
+			["Link"] = "|cffa335ee|Hitem:178771::::::::60:264::35:5:7206:6652:1501:5871:6646::::|h[Phial of Putrefaction]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 178755,
-			["Level"] = 184,
-			["Link"] = "|cffa335ee|Hitem:178755::::::::60:263::23:4:6807:6652:1498:6646:1:28:749:::|h[Blighted Margrave's Cloak]|h|r",
+			["ID"] = 183034,
+			["Level"] = 200,
+			["Link"] = "|cffa335ee|Hitem:183034::::::::60:263::1:2:6805:6652:1:28:2060:::|h[Cowled Batwing Cloak]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 180095,
