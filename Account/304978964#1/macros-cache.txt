@@ -6,6 +6,11 @@ VER 3 0000000000000006 "Interupt focus" "136018"
 #showtooltip
 /cast [@focus, exists, harm] Wind Shear; Wind Shear
 END
+VER 3 0000000000000009 "T_CrashLightenin" "1370984"
+#showtooltip
+/use 13
+/cast !Crash Lightning
+END
 VER 3 0000000000000007 "T_LavaLash" "236289"
 #showtooltip
 /use 14
@@ -18,6 +23,11 @@ VER 3 0000000000000004 "T_Sundering" "524794"
 END
 VER 3 0000000000000008 "T_ThunderStrike" "132314"
 #showtooltip
-/use 14
+/use 13
 /cast !Stormstrike
+END
+VER 3 000000000000000B "Target_Friend" "135981"
+/cleartarget [dead][nohelp][mod:ctrl]
+/tar [@mouseover,help,nodead,mod:alt][@focus,help,nodead,mod:shift]
+/targetfriend [noexists]
 END

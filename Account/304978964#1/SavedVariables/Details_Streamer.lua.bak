@@ -18,10 +18,12 @@ Details_StreamerDB = {
 		["Icodehtml - Perenolde"] = "Peilla - Perenolde",
 		["Notaphase - Perenolde"] = "Peilla - Perenolde",
 		["Aylia - Perenolde"] = "Peilla - Perenolde",
-		["Jakestatefrm - Perenolde"] = "Peilla - Perenolde",
+		["Boogiefever - Perenolde"] = "Peilla - Perenolde",
 		["Imyerstepdad - Perenolde"] = "Peilla - Perenolde",
-		["Peilla - Perenolde"] = "Peilla - Perenolde",
+		["Jakestatefrm - Perenolde"] = "Peilla - Perenolde",
 		["Paulblart - Perenolde"] = "Peilla - Perenolde",
+		["Peilla - Perenolde"] = "Peilla - Perenolde",
+		["Imnotabot - Perenolde"] = "Peilla - Perenolde",
 	},
 	["profiles"] = {
 		["Peilla - Perenolde"] = {

@@ -2,7 +2,7 @@
 DecursiveDB = {
 	["global"] = {
 		["LastExpirationAlert"] = 1562389110,
-		["LastVersionAnnounce"] = 1612038863,
+		["LastVersionAnnounce"] = 1614798979,
 		["NewerVersionAlert"] = 1606321097,
 	},
 	["class"] = {
@@ -34,8 +34,8 @@ DecursiveDB = {
 				-15, -- [2]
 				nil, -- [3]
 				-14, -- [4]
-				[8] = -11,
-				[16] = -12,
+				[8] = 1,
+				[16] = 2,
 				[32] = -16,
 			},
 		},
@@ -64,7 +64,7 @@ DecursiveDB = {
 		["WARLOCK"] = {
 			["CureOrder"] = {
 				-13, -- [1]
-				2, -- [2]
+				-12, -- [2]
 				nil, -- [3]
 				-14, -- [4]
 				[8] = -15,
@@ -99,10 +99,10 @@ DecursiveDB = {
 				-14, -- [1]
 				-16, -- [2]
 				nil, -- [3]
-				1, -- [4]
-				[8] = 2,
+				-11, -- [4]
+				[8] = -12,
 				[16] = -15,
-				[32] = 3,
+				[32] = -13,
 			},
 		},
 		["MONK"] = {
@@ -145,6 +145,8 @@ DecursiveDB = {
 		["Mightysanta - Perenolde"] = "Default",
 		["Adley - Perenolde"] = "Default",
 		["Nutbusta - Perenolde"] = "Default",
+		["Imnotabot - Perenolde"] = "Default",
+		["Boogiefever - Perenolde"] = "Default",
 		["Icodehtml - Perenolde"] = "Default",
 		["Notaphase - Perenolde"] = "Default",
 		["Aylia - Perenolde"] = "Default",
