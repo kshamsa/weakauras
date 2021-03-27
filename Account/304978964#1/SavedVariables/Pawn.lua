@@ -339,10 +339,13 @@ PawnCommon = {
 		["\"MrRobot\":PALADIN3"] = {
 			["IconTexturePath"] = 135873,
 			["PerCharacterOptions"] = {
-				["Arlan-Perenolde"] = {
+				["Boogiefever-Perenolde"] = {
 					["Visible"] = true,
 				},
-				["Boogiefever-Perenolde"] = {
+				["Rhakdurag-Perenolde"] = {
+					["Visible"] = true,
+				},
+				["Arlan-Perenolde"] = {
 					["Visible"] = true,
 				},
 			},
@@ -688,7 +691,7 @@ PawnCommon = {
 	},
 	["ShowSocketingAdvisor"] = true,
 	["ShowSpecIcons"] = true,
-	["LastVersion"] = 2.0414,
+	["LastVersion"] = 2.0417,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,

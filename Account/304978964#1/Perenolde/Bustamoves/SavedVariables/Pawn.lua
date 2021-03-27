@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0414,
+	["LastVersion"] = 2.0417,
 	["ItemLevels"] = {
 		{
 			["ID"] = 178692,
@@ -8,9 +8,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:178692::::::::60:263::16:6:6809:6652:7194:1501:5848:6646:1:28:1279:::|h[Soulthorn Visage]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 183040,
-			["Level"] = 200,
-			["Link"] = "|cffa335ee|Hitem:183040::::::::60:263::3:5:7189:6652:7194:1472:6646::::|h[Charm of Eternal Winter]|h|r",
+			["ID"] = 180115,
+			["Level"] = 213,
+			["Link"] = "|cffa335ee|Hitem:180115::::::::60:263::35:6:7206:6652:7193:1501:5871:6646::::|h[Azure-Venom Choker]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 178695,
@@ -39,9 +39,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:179345::::::::60:263::35:5:7206:6652:1501:5871:6646::::|h[Spatial Rift Striders]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 184126,
-			["Level"] = 207,
-			["Link"] = "|cffa335ee|Hitem:184126::::::::60:263::81:4:6652:7193:1492:6646:1:28:2060:::|h[Ironroot Bindings]|h|r",
+			["ID"] = 178703,
+			["Level"] = 213,
+			["Link"] = "|cffa335ee|Hitem:178703::::::::60:263::35:6:7385:7359:6652:7194:1527:6646::::|h[Hiveswarm Bracers]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 180105,

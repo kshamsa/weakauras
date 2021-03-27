@@ -1,9 +1,6 @@
 
 PawnOptions = {
 	["LastVersion"] = 2.041,
-	["LastPlayerFullName"] = "Harnis-Perenolde",
-	["AutoSelectScales"] = true,
-	["UpgradeTracking"] = false,
 	["ItemLevels"] = {
 		{
 			["ID"] = 160122,
@@ -92,7 +89,9 @@ PawnOptions = {
 			["Link"] = "|cff00ccff|Hitem:122391::::::::44:73:::1:582::::|h[Flamescarred Draconian Deflector]|h|r",
 		}, -- [17]
 	},
-	["LastKeybindingsSet"] = 1,
+	["AutoSelectScales"] = true,
+	["UpgradeTracking"] = false,
+	["LastPlayerFullName"] = "Harnis-Perenolde",
 	["Artifacts"] = {
 		[128910] = {
 			["Relics"] = {
@@ -107,6 +106,7 @@ PawnOptions = {
 			["Name"] = "Strom'kar, the Warbreaker",
 		},
 	},
+	["LastKeybindingsSet"] = 1,
 }
 PawnMrRobotScaleProviderOptions = {
 	["LastClass"] = "WARRIOR",

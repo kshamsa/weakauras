@@ -20,7 +20,7 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
-			["y"] = -90.9970703125,
+			["y"] = -79.9971923828125,
 			["rules"] = {
 				"all", -- [1]
 				"all/normal", -- [2]
@@ -48,7 +48,7 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["x"] = -426.9031982421875,
+			["x"] = -440.903076171875,
 			["hiddenRules"] = {
 			},
 			["borderColor"] = {
@@ -168,7 +168,7 @@ Bagnon_Sets = {
 	},
 	["mineColor"] = {
 	},
-	["version"] = "9.0.5",
+	["version"] = "9.0.6",
 	["herbColor"] = {
 	},
 	["enchantColor"] = {

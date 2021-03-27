@@ -3,6 +3,7 @@ VERSION 7
 ADDEDVERSION 21
 
 CHANNELS
+General 1 1 0
 LocalDefense 0 3 0
 Community:356337651:1 0 4 1
 END
